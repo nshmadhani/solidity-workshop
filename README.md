@@ -16,6 +16,7 @@
 ## Its Best if you know
  - Public Key Crypto
  - Basics on Blockchain
+ - etherscan.io
 
 ## What you need
  - Diamond Hands 💎🤲
