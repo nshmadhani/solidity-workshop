@@ -7,7 +7,7 @@
 
 
 
-# Prequistes 
+# Preq
 
 ## What you should know
  - Basic CS Concepts(How to code, Networks: its okay if you dont)
