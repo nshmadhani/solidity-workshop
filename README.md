@@ -48,6 +48,9 @@
 ## Lets Write some code 
 
  - https://remix.ethereum.org/
+ - https://metamask.io/
+ - https://faucetlink.to/goerli
+ - https://docs.openzeppelin.com/contracts/4.x/erc20
 
 
 ## Resources 
